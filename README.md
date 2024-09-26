@@ -38,7 +38,8 @@ Formação:
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/DaniNere/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/DaniNere/DaniNere/output/snake.svg)
+
 
 
 ###
