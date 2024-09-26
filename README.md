@@ -1,3 +1,6 @@
+![_LinkedIn Banner](https://github.com/user-attachments/assets/b7890269-a1bd-423c-831d-3b9ecedb7099)
+
+
 Oi! Sou Danielle Nere, me tornei uma entusiasta do desenvolvimento Java back-end e tenho curtido os desafios técnicos que tenho visto.
 Equilibrar minha paixão por códigos com a alegria de ser mãe tem sido uma jornada incrível.
 
